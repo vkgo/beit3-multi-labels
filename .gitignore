@@ -1,0 +1,8 @@
+data/*
+data-*/*
+fakedata/*
+logs/*
+pretrained_model/*
+saved_model/*
+saved_model_crawed/*
+.idea/*
